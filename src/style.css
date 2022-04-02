@@ -28,6 +28,9 @@ body {
   line-height: 1;
   font-weight: 400;
 }
+small {
+  font-size: x-small;
+}
 .weather-app-wrapper {
   max-width: 600px;
   margin: 30px auto;
@@ -54,4 +57,8 @@ body {
   position: relative;
   font-size: 20px;
   top: -10px;
+}
+.weather-temperature .active {
+  color: black cursor default;
+  text-decoration: none;
 }

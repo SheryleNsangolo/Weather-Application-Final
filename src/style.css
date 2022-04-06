@@ -62,3 +62,17 @@ small {
   color: black cursor default;
   text-decoration: none;
 }
+.weather-forecast {
+  margin-top: 20px;
+}
+.weather-forecast-date {
+  font: 14px;
+  color: black;
+}
+.weather-forecast-temperatures {
+  font: 16px;
+}
+.weather-forecast-temperature-min {
+  font: 16px;
+  opacity: 0.6;
+}

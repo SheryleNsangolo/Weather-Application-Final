@@ -66,8 +66,8 @@ small {
   margin-top: 20px;
 }
 .weather-forecast-date {
-  font: 14px;
-  color: black;
+  font: 13px;
+  color: seashell;
 }
 .weather-forecast-temperatures {
   font: 16px;
